@@ -24,18 +24,23 @@ You can paste this directly into your README.
 
 ---
 
+Here is your **Tech Stack section upgraded with beautiful badge-style buttons** (same style as your Socials badges).
+You can paste this directly into your README.
+
+---
+
 ## 🛠️ Tech Stack
 
 ### **Programming & Development**
 
-![Java]()
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge\&logo=openjdk\&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
 
 ### **Mobile & AR Development**
 
-![Android]()
-![AR Core]()
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge\&logo=android\&logoColor=white)
+![AR Core](https://img.shields.io/badge/ARCore-4285F4?style=for-the-badge\&logo=google-arcore\&logoColor=white)
 
 ### **Web Technologies**
 
