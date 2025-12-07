@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**LakshmanDev12/LakshmanDev12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👨‍💻 About Me:
+Hi there 👋, I'm Lakshmandev V K!
+🎓 B.Tech Student | PSG College of Technology
+💡 Passionate Tech Learner | Developer | Innovator
+🔧 Hands-on experience in software development, web design, Android app development, and AR Core.
+🚀 Built 9+ real-time projects focusing on practical and impactful solutions.
+🏆 Earned 8+ project presentation certifications, showcasing strong technical and communication skills.
+🥇 My final year project received awards and recognition at multiple technical events.
+🤖 Interested in system design, AR/VR technology, mobile apps, and full-stack development.
+📚 Always learning, experimenting, and pushing boundaries in tech.
+🌱 Currently exploring advanced Android development and backend technologies.
+📌 Always open to exciting collaborations, tech discussions, and innovative project ideas!
