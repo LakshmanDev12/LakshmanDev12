@@ -1,15 +1,42 @@
 ## Hi there 👋
+👋 Hi there, I'm Lakshmandev V K!
+💡 Aspiring Developer | Android • AR Core • Web Development
+
+🎓 B.Tech IT | PSG College of Technology
+💼 Passionate about building real-time applications and exploring innovative technologies.
+
 👨‍💻 About Me
 
-I’m Lakshmandev V K, a passionate tech learner currently pursuing my B.Tech at PSG College of Technology. I enjoy building practical, real-time solutions through software development, web design, Android apps, and AR Core technologies. With multiple award-winning projects and hands-on development experience, I constantly explore new technologies to enhance my skills. I’m driven by innovation, curiosity, and a desire to create meaningful technological advancements that solve real-world problems.
+I’m a dedicated tech learner with experience in Android development, AR Core, web design, and software development. I enjoy turning ideas into practical solutions through hands-on projects. With multiple award-winning projects and strong technical exposure, I continue to explore new technologies to contribute to meaningful innovations.
 
+⭐ Key Highlights
 
-🔧 Hands-on experience in Android apps, AR Core, web development, and software engineering.
+🔧 Hands-on experience in Android apps, AR Core, and software development
 
-🚀 Developed 9+ real-time projects with practical, impactful implementations.
+🚀 Built 9+ real-time projects with practical impact
 
-🏆 Received multiple awards and recognitions for my final-year project.
+🏆 Final-year project earned awards and recognitions across multiple events
 
-🎤 Earned 8+ project presentation certifications across technical events.
+🎤 Completed 8+ project presentation certifications
 
-🌱 Constantly learning and exploring new tools, frameworks, and emerging technologies.
+🌱 Continuously exploring new frameworks, tools, and emerging technologies
+
+🛠️ Tech Stack
+Programming & Development
+
+JAVA PYTHON SQL
+
+Mobile & AR Development
+
+ANDROID AR CORE
+
+Web Technologies
+
+HTML CSS JAVASCRIPT BOOTSTRAP
+
+Tools
+
+GITHUB VS CODE UNITY BLENDER
+
+🌐 Socials
+
