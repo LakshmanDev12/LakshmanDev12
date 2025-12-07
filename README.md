@@ -1,42 +1,53 @@
 ## Hi there 👋
-👋 Hi there, I'm Lakshmandev V K!
-💡 Aspiring Developer | Android • AR Core • Web Development
 
-🎓 B.Tech IT | PSG College of Technology
+# 👋 Hi there, I'm Lakshmandev V K!
+
+## 💡 Aspiring Developer | Android • AR Core • Web Development
+
+🎓 **B.Tech IT | PSG College of Technology**
 💼 Passionate about building real-time applications and exploring innovative technologies.
 
-👨‍💻 About Me
+---
+
+## 👨‍💻 About Me
 
 I’m a dedicated tech learner with experience in Android development, AR Core, web design, and software development. I enjoy turning ideas into practical solutions through hands-on projects. With multiple award-winning projects and strong technical exposure, I continue to explore new technologies to contribute to meaningful innovations.
 
-⭐ Key Highlights
+### ⭐ Key Highlights
 
-🔧 Hands-on experience in Android apps, AR Core, and software development
+* 🔧 Hands-on experience in **Android apps, AR Core, and software development**
+* 🚀 Built **9+ real-time projects** with practical impact
+* 🏆 Final-year project earned **awards and recognitions** across multiple events
+* 🎤 Completed **8+ project presentation certifications**
+* 🌱 Continuously exploring **new frameworks, tools, and emerging technologies**
 
-🚀 Built 9+ real-time projects with practical impact
+---
 
-🏆 Final-year project earned awards and recognitions across multiple events
+## 🛠️ Tech Stack
 
-🎤 Completed 8+ project presentation certifications
+### **Programming & Development**
 
-🌱 Continuously exploring new frameworks, tools, and emerging technologies
+`JAVA` `PYTHON` `SQL`
 
-🛠️ Tech Stack
-Programming & Development
+### **Mobile & AR Development**
 
-JAVA PYTHON SQL
+`ANDROID` `AR CORE`
 
-Mobile & AR Development
+### **Web Technologies**
 
-ANDROID AR CORE
+`HTML` `CSS` `JAVASCRIPT` `BOOTSTRAP`
 
-Web Technologies
+### **Tools**
 
-HTML CSS JAVASCRIPT BOOTSTRAP
+`GITHUB` `VS CODE` `UNITY` `BLENDER`
 
-Tools
+---
 
-GITHUB VS CODE UNITY BLENDER
+## 🌐 Socials
 
-🌐 Socials
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=white)](https://leetcode.com/u/VKLAKSHMANDEV/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/vk-lakshmandev-bb12a127b/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/lakshmandev.vk)
+
+---
 
