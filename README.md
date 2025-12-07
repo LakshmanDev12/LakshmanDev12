@@ -1,23 +1,15 @@
 ## Hi there 👋
+👨‍💻 About Me
 
-👨‍💻 About Me:
-Hi there 👋, I'm Lakshmandev V K!
-🎓 B.Tech Student | PSG College of Technology
+I’m Lakshmandev V K, a passionate tech learner currently pursuing my B.Tech at PSG College of Technology. I enjoy building practical, real-time solutions through software development, web design, Android apps, and AR Core technologies. With multiple award-winning projects and hands-on development experience, I constantly explore new technologies to enhance my skills. I’m driven by innovation, curiosity, and a desire to create meaningful technological advancements that solve real-world problems.
 
-💡 Passionate Tech Learner | Developer | Innovator
 
-🔧 Hands-on experience in software development, web design, Android app development, and AR Core.
+🔧 Hands-on experience in Android apps, AR Core, web development, and software engineering.
 
-🚀 Built 9+ real-time projects focusing on practical and impactful solutions.
+🚀 Developed 9+ real-time projects with practical, impactful implementations.
 
-🏆 Earned 8+ project presentation certifications, showcasing strong technical and communication skills.
+🏆 Received multiple awards and recognitions for my final-year project.
 
-🥇 My final year project received awards and recognition at multiple technical events.
+🎤 Earned 8+ project presentation certifications across technical events.
 
-🤖 Interested in system design, AR/VR technology, mobile apps, and full-stack development.
-
-📚 Always learning, experimenting, and pushing boundaries in tech.
-
-🌱 Currently exploring advanced Android development and backend technologies.
-
-📌 Always open to exciting collaborations, tech discussions, and innovative project ideas!
+🌱 Constantly learning and exploring new tools, frameworks, and emerging technologies.
