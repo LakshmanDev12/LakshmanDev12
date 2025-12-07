@@ -19,14 +19,6 @@ I’m a dedicated tech learner with experience in Android development, AR Core, 
 * 🎤 Completed **6+ project presentation certifications**
 * 🌱 Continuously exploring **new frameworks, tools, and emerging technologies**
 
-Here is your **Tech Stack section upgraded with beautiful badge-style buttons** (same style as your Socials badges).
-You can paste this directly into your README.
-
----
-
-Here is your **Tech Stack section upgraded with beautiful badge-style buttons** (same style as your Socials badges).
-You can paste this directly into your README.
-
 ---
 
 ## 🛠️ Tech Stack
