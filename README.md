@@ -14,9 +14,9 @@ I’m a dedicated tech learner with experience in Android development, AR Core, 
 ### ⭐ Key Highlights
 
 * 🔧 Hands-on experience in **Android apps, AR Core, and software development**
-* 🚀 Built **9+ real-time projects** with practical impact
+* 🚀 Built **7+ real-time projects** with practical impact
 * 🏆 Final-year project earned **awards and recognitions** across multiple events
-* 🎤 Completed **8+ project presentation certifications**
+* 🎤 Completed **6+ project presentation certifications**
 * 🌱 Continuously exploring **new frameworks, tools, and emerging technologies**
 
 ---
