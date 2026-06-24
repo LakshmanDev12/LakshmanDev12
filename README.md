@@ -1,6 +1,6 @@
 # 👋 Hi I'm, Lakshmandev V K!
 
-## 💡 Aspiring Developer | Android • AR Core • Web Development
+## 💡 Aspiring Developer | Android • AR Core • Web Development • Andriod 
 
 🎓 **B.Tech IT | PSG College of Technology**
 💼 Passionate about building real-time applications and exploring innovative technologies.
