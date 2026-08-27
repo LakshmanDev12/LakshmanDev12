@@ -1,4 +1,4 @@
-# 👋 Hi I'm, Lakshmandev V K!
+# 👋 Hi I'm, Lakshmandev Vk!
 
 ## 💡 Aspiring Developer | Android • AR Core • Web Development • Andriod 
 
