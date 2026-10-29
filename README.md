@@ -1,7 +1,7 @@
 <!-- ============ HEADER ============ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Lakshmandev%20VK&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20ideas%20into%20software.%20Turning%20software%20into%20impact.&descSize=16&descAlignY=60" alt="Header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Lakshmandev%20VK&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Building%20ideas%20into%20software.%20Turning%20software%20into%20impact.&descSize=16&descAlignY=60" alt="Header"/>
 
 <a href="https://github.com/LakshmanDev12">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=36BCF7&center=true&vCenter=true&width=640&lines=Full-Stack+%7C+AI+%7C+Mobile+%7C+AR;B.Tech+IT+%40+PSG+College+of+Technology;I+don't+just+learn+tech.+I+ship+with+it." alt="Typing SVG"/>
@@ -20,7 +20,7 @@
 
 ## 👋 About Me
 
-I'm a **B.Tech Final Year Information Technology** student at **PSG College of Technology** who loves building software that solves real problems. My work sits at the intersection of **creativity and engineering**: AI-powered video generation, secure identity systems for AI agents, mobile safety apps, and augmented reality.
+I'm a **B.Tech Information Technology** student at **PSG College of Technology** who loves building software that solves real problems. My work sits at the intersection of **creativity and engineering**: AI-powered video generation, secure identity systems for AI agents, mobile safety apps, and augmented reality.
 
 > 💡 I don't just learn technologies. I experiment with them, build with them, and turn ideas into working applications.
 
