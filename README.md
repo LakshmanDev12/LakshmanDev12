@@ -20,7 +20,7 @@
 
 ## 👋 About Me
 
-I'm a **B.Tech Information Technology** student at **PSG College of Technology** who loves building software that solves real problems. My work sits at the intersection of **creativity and engineering**: AI-powered video generation, secure identity systems for AI agents, mobile safety apps, and augmented reality.
+I'm a **B.Tech Final Year Information Technology** student at **PSG College of Technology** who loves building software that solves real problems. My work sits at the intersection of **creativity and engineering**: AI-powered video generation, secure identity systems for AI agents, mobile safety apps, and augmented reality.
 
 > 💡 I don't just learn technologies. I experiment with them, build with them, and turn ideas into working applications.
 
