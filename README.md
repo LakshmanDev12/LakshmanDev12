@@ -173,14 +173,14 @@ flowchart LR
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Snapshot
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=LakshmanDev12&show_icons=true&hide_border=true&theme=transparent" alt="GitHub Stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LakshmanDev12&layout=compact&hide_border=true&theme=transparent" alt="Top Languages"/>
-
-<img src="https://streak-stats.demolab.com/?user=LakshmanDev12&hide_border=true&theme=transparent" alt="GitHub Streak"/>
+[![Followers](https://img.shields.io/github/followers/LakshmanDev12?style=for-the-badge&logo=github&label=Followers&color=203a43)](https://github.com/LakshmanDev12?tab=followers)
+[![AIMS Top Language](https://img.shields.io/github/languages/top/LakshmanDev12/AIMS---Vk?style=for-the-badge&label=AIMS&color=2c5364)](https://github.com/LakshmanDev12/AIMS---Vk)
+[![Last Commit](https://img.shields.io/github/last-commit/LakshmanDev12/Sentriq-by-Vk?style=for-the-badge&label=Sentriq%20last%20commit&color=0f2027)](https://github.com/LakshmanDev12/Sentriq-by-Vk)
+![Profile Views](https://komarev.com/ghpvc/?username=LakshmanDev12&style=for-the-badge&color=36BCF7&label=Profile+Views)
 
 </div>
 
